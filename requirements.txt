@@ -1,0 +1,8 @@
+certifi==2020.11.8
+fuzzywuzzy==0.18.0
+numpy==1.19.4
+pandas==1.1.4
+python-dateutil==2.8.1
+python-Levenshtein @ file:///Users/runner/miniforge3/conda-bld/python-levenshtein_1602332905514/work
+pytz==2020.4
+six==1.15.0
